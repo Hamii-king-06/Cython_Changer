@@ -15,7 +15,7 @@
 # MAIN CAMMANDS
 
 - `rm -rf Ua_genrator`
-- `git clone https://github.com/Hamii-king-06/Ua_genrator``
+- `git clone https://github.com/Hamii-king-06/Ua_genrator`
 - `cd Ua_genrator`
 - `python3 Ua_genrator`
 
