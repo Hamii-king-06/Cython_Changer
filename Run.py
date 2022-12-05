@@ -15,7 +15,7 @@ if bit == '64bit':
 
 elif bit == '32bit':
 
-    from C23 import main
+    from C32 import main
 
     main()
 
