@@ -14,9 +14,9 @@
 
 # MAIN CAMMANDS
 
-- `rm -rf Ua_genrator`
-- `git clone https://github.com/Hamii-king-06/Ua_genrator`
-- `cd Ua_genrator`
-- `python3 Ua_genrator.py`
+- `rm -rf Cython_Changer`
+- `git clone https://github.com/Hamii-king-06/Cython_Changer`
+- `cd Cython_Changer`
+- `python3 Run.py`
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-HAMII-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923155912839)
